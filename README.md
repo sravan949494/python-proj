@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python Jenkins Docker Tutorial
 
 This repository contains a **minimal Python application** designed to demonstrate a complete CI/CD workflow using **Jenkins**, **Docker**, and **Docker Compose**.
@@ -176,3 +177,6 @@ Before running this project, install:
 ## 📜 License
 
 This project is released under the MIT License.
+=======
+# python-proj
+>>>>>>> e3bef6fbe775b6e2095f2fe09f71c89f7e7fb361
